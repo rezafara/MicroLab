@@ -1,0 +1,11 @@
+VERSION:3 SOURCE_TIMESTAMP:48AE5392
+NODE:I LEVEL:0 LINE:1 "C:\cvavr2\inc\mega64.h"
+NODE:I LEVEL:0 LINE:2 "C:\cvavr2\inc\delay.h"
+NODE:I LEVEL:0 LINE:3 "C:\Projects\Micro Proccessor LAB\E8\glcd.h"
+NODE:F LEVEL:0 LINE:5 "write_Cmd(unsigned char cmd)"
+NODE:F LEVEL:0 LINE:23 "write_Data(unsigned char data,int cs)"
+NODE:F LEVEL:0 LINE:46 "clearScreen(void)"
+NODE:F LEVEL:0 LINE:62 "GLCDInit(void)"
+NODE:F LEVEL:0 LINE:80 "gotoPage(int page,int y)"
+NODE:F LEVEL:0 LINE:86 "setPicture(void)"
+NODE:F LEVEL:0 LINE:93 "main(void)"

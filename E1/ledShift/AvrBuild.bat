@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Projects\Micro Proccessor LAB\E1\ledShift\labels.tmp" -fI -W+ie -o "C:\Projects\Micro Proccessor LAB\E1\ledShift\ledShift.hex" -d "C:\Projects\Micro Proccessor LAB\E1\ledShift\ledShift.obj" -e "C:\Projects\Micro Proccessor LAB\E1\ledShift\ledShift.eep" -m "C:\Projects\Micro Proccessor LAB\E1\ledShift\ledShift.map" "C:\Projects\Micro Proccessor LAB\E1\ledShift\ledShift.asm"

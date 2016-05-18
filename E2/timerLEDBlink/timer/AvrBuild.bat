@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Projects\Micro Proccessor LAB\E2\timerLEDBlink\timer\labels.tmp" -fI -W+ie -C V2E -o "C:\Projects\Micro Proccessor LAB\E2\timerLEDBlink\timer\timer.hex" -d "C:\Projects\Micro Proccessor LAB\E2\timerLEDBlink\timer\timer.obj" -e "C:\Projects\Micro Proccessor LAB\E2\timerLEDBlink\timer\timer.eep" -m "C:\Projects\Micro Proccessor LAB\E2\timerLEDBlink\timer\timer.map" "C:\Projects\Micro Proccessor LAB\E2\timerLEDBlink\timer\timer.asm"

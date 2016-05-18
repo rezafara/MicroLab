@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Projects\Micro Proccessor LAB\E1\helloLED\labels.tmp" -fI -W+ie -C V2E -o "C:\Projects\Micro Proccessor LAB\E1\helloLED\helloLED.hex" -d "C:\Projects\Micro Proccessor LAB\E1\helloLED\helloLED.obj" -e "C:\Projects\Micro Proccessor LAB\E1\helloLED\helloLED.eep" -m "C:\Projects\Micro Proccessor LAB\E1\helloLED\helloLED.map" "C:\Projects\Micro Proccessor LAB\E1\helloLED\helloLED.asm"

@@ -1,0 +1,28 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega64</DEVICE>
+ <WORKING_DIR>C:\Projects\Micro Proccessor LAB\E1\ledShift</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Projects\Micro Proccessor LAB\E1\ledShift\ledShift.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m64def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Projects\Micro Proccessor LAB\E1\ledShift\ledShift.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Projects\Micro Proccessor LAB\E1\ledShift\ledShift.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Projects\Micro Proccessor LAB\E1\ledShift\ledShift.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Main><FILE>C:\Projects\Micro Proccessor LAB\E1\ledShift\ledShift.asm</FILE><LINE>13</LINE></Main>
+  <loop><FILE>C:\Projects\Micro Proccessor LAB\E1\ledShift\ledShift.asm</FILE><LINE>28</LINE></loop>
+  <zero><FILE>C:\Projects\Micro Proccessor LAB\E1\ledShift\ledShift.asm</FILE><LINE>38</LINE></zero>
+  <delay><FILE>C:\Projects\Micro Proccessor LAB\E1\ledShift\ledShift.asm</FILE><LINE>49</LINE></delay>
+  <L1><FILE>C:\Projects\Micro Proccessor LAB\E1\ledShift\ledShift.asm</FILE><LINE>53</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>

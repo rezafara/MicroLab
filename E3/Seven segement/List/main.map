@@ -1,0 +1,15 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+OutVal1                                                           R4,R5        2
+OutVal2                                                           R6,R7        2
+OutVal3                                                           R8,R9        2
+OutVal4                                                           R10,R11      2
